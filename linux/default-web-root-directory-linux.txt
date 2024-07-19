@@ -11,3 +11,9 @@ home/www/FUZZ
 home/httpd/FUZZ
 home/$USER/public_html/FUZZ
 home/$USER/www/FUZZ
+
+
+apache
+/etc/apache2/apache2.conf
+nginx
+/etc/nginx/nginx.conf
